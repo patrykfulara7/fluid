@@ -1,0 +1,9 @@
+.cache/
+.clang-format
+.vscode/
+build/
+Fluid/src/CMakePlaceholders.hxx
+ThirdParty/
+!ThirdParty/glad
+!ThirdParty/stb_image
+!ThirdParty/CMakeLists.txt

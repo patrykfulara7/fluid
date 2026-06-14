@@ -1,0 +1,26 @@
+target_sources(${PROJECT_NAME}
+    PRIVATE
+    BufferLayout.cxx
+    BufferLayout.hxx
+    CMakeLists.txt
+    ElementBuffer.cxx
+    ElementBuffer.hxx
+    FileIO.cxx
+    FileIO.hxx
+    GLTypes.cxx
+    GLTypes.hxx
+    pch.hxx
+    Shader.cxx
+    Shader.hxx
+    VertexArray.cxx
+    VertexArray.hxx
+    VertexBuffer.cxx
+    VertexBuffer.hxx
+    Window.cxx
+    Window.hxx
+)
+
+target_precompile_headers(${PROJECT_NAME}
+    PRIVATE
+    pch.hxx
+)
