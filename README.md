@@ -9,7 +9,7 @@ Simulation of Euler fluid visualised with a pressure map.
 
 ```
 # First, download the repository:
-git clone https://github.com/patrykfulara7/tetris-replicant.git
+git clone https://github.com/patrykfulara7/fluid.git
 
 # Then, build and compile it with CMake:
 cd tetris-replicant
