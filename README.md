@@ -18,7 +18,7 @@ cmake --build build
 
 # Finally, run the executable:
 # On Linux
-./build/FLuid/fluid
+./build/Fluid/fluid
 
 # On Windows
 # .\build\Fluid\fluid.exe
